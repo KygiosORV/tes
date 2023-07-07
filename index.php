@@ -26,7 +26,7 @@
 		<div class="col-md-8">
 			<div class="card">
 				<div class="card-body text-center">
-					<h4 class="mb-2"><strong>fanasty v2.0 closed beta, we all make mistakes.<br></strong></h4>
+					<h4 class="mb-2"><strong>OhMyKyrGios closed beta, we all make mistakes.<br></strong></h4>
 
 					<textarea rows="12" class="form-control text-center form-checker mb-2" placeholder="PUT YOUR CARDS HERE"></textarea>
 					
